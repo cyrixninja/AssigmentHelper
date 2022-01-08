@@ -10,7 +10,7 @@ import base64
 
 st.title("Assignment Helper")
 
-openai.api_key =  "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"
+openai.api_key =  ""
 
 def create_download_link(val, filename):
     b64 = base64.b64encode(val)  # val looks like b'...'
