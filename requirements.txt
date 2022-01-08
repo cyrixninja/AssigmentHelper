@@ -1,0 +1,7 @@
+pillow
+numpy
+fpdf
+openai
+streamlit
+opencv-python==4.5.4.60
+easyocr
